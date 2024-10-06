@@ -4,5 +4,5 @@ Hello!! Everyone
 This is a CALCULATOR website created using React.
 
 
-Link to my  <a href="https://sunnat111.github.io/calculator/">project</a>
+Link to my  <a href="https://sunnat111.github.io/Calculator">project</a>
 
